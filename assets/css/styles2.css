@@ -1,0 +1,140 @@
+.aktor {
+    margin-left: 1100px;
+}
+
+.logout {
+    color: white;
+}
+
+.geser {
+    margin-left: 20px;
+}
+
+.hr-barang {
+    width: 320px;
+}
+
+.hr-gallery {
+    width: 270px;
+}
+
+.bg {
+    background-color: lavender;
+}
+
+.bgnav {
+    background-color:#4169E1;
+}
+
+.search {
+    background-color: lightgray;
+}
+
+.aksi {
+    border-radius: 0.25rem;
+    padding: 0 5px 3px 5px ;
+}
+
+.hapus {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+
+.hapus:hover {
+   color: #fff;
+   background-color: #c82333;
+   border-color: #bd2130;
+   text-decoration: none;
+ }
+
+ .ubah {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  .ubah:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+    text-decoration: none;
+  }
+
+  .detail {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+
+  .detail-masuk {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+
+  .detail:hover {
+    color: #fff;
+    background-color: #138496;
+    border-color: #117a8b;
+    text-decoration: none;
+  }
+
+  .detail-masuk:hover {
+    color: #fff;
+    background-color: #138496;
+    border-color: #117a8b;
+    text-decoration: none;
+  }
+
+  .minta {
+    color: #fff;
+    background-color: #205c12;
+    border-color: #16490b;
+    margin-left: 1%;
+  }
+
+  .minta:hover {
+    color: #fff;
+    background-color: #16490b;
+    border-color: #16490b;
+    text-decoration: none;
+  }
+
+  .back {
+    color: #fff;
+    background-color: grey;
+    border-color: gray;
+  }
+ .back:hover {
+   color: #fff;
+   background-color: grey;
+   border-color: grey;
+   text-decoration: none;
+  }
+
+  .no {
+      width: 10px;
+  }
+
+  td img {
+      width: 70px;
+      height: 70px;
+  }
+
+  .aksis {
+      width: 150px;
+  }
+
+  td .poto img {
+    width: 200px;
+    height: 200px;
+}
+
+.tombol-ubah {
+    margin-left: 20%;
+}
+
+.card .gam-detail img  {
+    width: 250px;
+    height: 200px;
+}

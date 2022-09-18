@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'kaushan_scriptregular';
+  src: url('assets/font/kaushanscript-regular-webfont.woff2') format('woff2'),
+       url('assets/font/kaushanscript-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.datang h3 {
+	font-family: 'kaushan_scriptregular';
+  text-align: center;
+}
+
+.modal-content-supplier {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0.3rem;
+    outline: 0;
+    margin-top: 10%;
+  }
+
+.table-utama {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #858796;
+  border-style: solid;
+  color: rgb(17, 16, 16);
+  border-color: black !important;
+}
+
+.table-utama th,
+.table-utama td {
+padding: 0.4rem;
+}
+
+.form-search {
+  padding: 0rem;
+  height: 20px;
+  margin: 0rem;
+  border-width: 0cm;
+  width: 100%;
+  border-radius: 0%;
+}
+
+.form-search:focus {
+  outline-width: 0cm;
+}
+
+.table-search th {
+  padding: 0rem;
+}
+
+.card-body2 {
+  flex: 1 1 auto;
+  min-height: 550px;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-bottom: 1.25rem;
+  padding-top: 0.5rem;
+}
+
+.scroll {
+  height: 450px;
+  overflow: scroll;
+}
+
+.hitam {
+  color: rgb(17, 16, 16);
+  border-color: black;
+}
+
+.modal-body input[type=text] {
+  outline:0px !important;
+  box-shadow: none !important;
+}
+
+.modal-content-besar {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 200%;
+  height: 600px;
+  pointer-events: auto;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+  outline: 0;
+  right: -300px;
+  top: 80px;
+}
+
+.biru {
+  background-color: #6495ED;
+  background-image: linear-gradient(180deg, #6686e7 10%, #4973f0 100%);
+  background-size: cover;
+}
+
+.tabel {
+  border: 0.5px solid #a09292;
+}
+
+.tabel th,
+.tabel td {
+  border: 0.5px solid #a09292;
+}
+
+.tabel thead th,
+.tabel thead td {
+  border-bottom-width: 2px;
+}

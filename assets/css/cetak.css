@@ -1,0 +1,38 @@
+body {
+    font-family: arial;
+    color: rgba(34, 31, 31, 0.911);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.stok {
+    text-align: right;
+    padding-right: 5px;
+}
+
+td {
+    padding: 5px;
+}
+
+
+th {
+    padding: 5px;
+}
+
+.no {
+    text-align: center;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+th {
+    background-color: rgba(128, 128, 128, 0.322);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.oleh {
+    text-align: center;
+    padding-left: 450px;
+}
